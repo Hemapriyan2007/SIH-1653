@@ -46,13 +46,29 @@ Stories about companies that have developed circular economies for electronics o
 
 
 ## Proposed Solution / Architecture Diagram
+![hemapriyan p](https://github.com/user-attachments/assets/d8ad402b-71aa-4169-9f38-ab9c87439af0)
 
 
 ## Use Cases
+![web](https://github.com/user-attachments/assets/a81d5a32-58e5-4be4-be8b-170298a78723)
 
 
 ## Technology Stack
+React.js
 
+Node.js
+
+PostgreSQL
+
+Google maps
+
+Firebox Authenticator
+
+Git , Postman or Insomnia
 
 ## Dependencies
+Mapping service- 10 days
 
+Data collection- 10 days
+
+budget- rs.50,000
